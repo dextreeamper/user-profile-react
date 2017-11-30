@@ -1,4 +1,4 @@
-# react-example
+# User Profile React
 
 A simple user interface that demonstrates using [React] with [webpack], and [babeljs], as well as project structure
 
